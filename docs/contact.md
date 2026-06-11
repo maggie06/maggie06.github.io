@@ -29,4 +29,4 @@ Feel free to reach out through any of the channels below.
 
 ---
 
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button .md-button--primary }
+[Download CV :material-download:](assets/AydaAktas-2024-CV.pdf){ .md-button .md-button--primary }
