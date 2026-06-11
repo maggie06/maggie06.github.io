@@ -10,7 +10,6 @@ CHECKLIST FOR THIS PAGE:
 - [ ] Add or remove education entries
 - [ ] Add or remove certifications
 -->
-
 # Experience & Education
 
 ## Work Experience
@@ -19,23 +18,33 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="timeline-entry" markdown>
 
-### [YOUR JOB TITLE] — [YOUR COMPANY / ORGANIZATION]
-*[Month Year] – [Month Year or Present] | [City, Country]*
+### Lecturer — Istanbul Technical University, Informatics Institute
+*March 2009 – Present | Istanbul, Türkiye*
 
-- [Describe your main responsibility or achievement in one sentence]
-- [Describe another key task, project, or result]
-- [Describe a tool, method, or skill you applied regularly]
+- Teaching graduate-level courses in GIS Programming, Spatial Data Science, and geospatial technologies.
+- Conducting research in Earth Observation, GeoAI, remote sensing, and digital agriculture.
+- Coordinating academic, research, and institutional development activities within the Informatics Institute.
 
 </div>
 
 <div class="timeline-entry" markdown>
 
-### [YOUR PREVIOUS JOB TITLE] — [YOUR PREVIOUS COMPANY]
-*[Month Year] – [Month Year] | [City, Country]*
+### Remote Sensing Specialist — ITU Center for Satellite Communications and Remote Sensing (ITU-CSCRS)
+*December 2006 – March 2009 | Istanbul, Türkiye*
 
-- [Describe your main responsibility or achievement in one sentence]
-- [Describe another key task, project, or result]
-- [Describe a tool, method, or skill you applied regularly]
+- Participated in remote sensing and geospatial analysis projects using optical and radar satellite imagery.
+- Contributed to environmental monitoring, land cover analysis, and disaster management applications.
+- Developed expertise in image processing, GIS, and Earth observation data analysis.
+
+</div>
+
+<div class="timeline-entry" markdown>
+
+### Student Assistant — ITU Center for Satellite Communications and Remote Sensing (ITU-CSCRS)
+*April 2004 – December 2006 | Istanbul, Türkiye*
+
+- Assisted research projects involving satellite image processing and geospatial analysis.
+- Supported scientific studies, conference activities, and remote sensing data preparation.
 
 </div>
 
@@ -45,22 +54,51 @@ CHECKLIST FOR THIS PAGE:
 
 ## Education
 
-### [YOUR DEGREE] in [YOUR FIELD]
-**[YOUR UNIVERSITY]** | *[Year of Graduation]*
+### Ph.D. in Remote Sensing and Satellite Communications
+**Istanbul Technical University, Informatics Institute** | *2024*
 
-[Optional: one sentence about your thesis, specialization, or coursework if relevant]
+Dissertation: *Context-Aware Remote Sensing Data Processing for Improvement of Agricultural Predictions*
 
 ---
 
-### [YOUR PREVIOUS DEGREE] in [YOUR FIELD]
-**[YOUR UNIVERSITY]** | *[Year of Graduation]*
+### M.Sc. in Remote Sensing and Satellite Communications
+**Istanbul Technical University, Informatics Institute** | *2008*
+
+Thesis: *Land Cover Change Assessment in Belek Forest Based on Change Vector Analysis*
+
+---
+
+### M.Sc. in Geomatic Engineering
+**Istanbul Technical University** | *2007*
+
+Thesis: *The Usage of Radar Images in Oil Spill Detection*
+
+---
+
+### B.Sc. in Geodesy and Photogrammetry Engineering
+**Istanbul Technical University** | *2004*
+
+Graduated with High Honors (3rd Rank)
 
 ---
 
 ## Certifications
 
-- [Certification Name] — [Issuing Organization], [Year]
-- [Certification Name] — [Issuing Organization], [Year]
-- [Certification Name] — [Issuing Organization], [Year]
+- Python Foundation for Spatial Analysis — Spatial Thoughts (2022)
+- Hyperspectral Data Processing — Hyperteach (2006)
 
-*Examples: QGIS Certification, PMP Certification, AWS Certified Cloud Practitioner*
+---
+
+## Awards
+
+- Best Youth Poster Award — XXth ISPRS Congress (2004)
+
+---
+
+## Professional Activities
+
+- Secretary, ISPRS Technical Commission VII (2012–2016)
+- Board Member and Newsletter Editor, ISPRS Student Consortium
+- Conference Secretariat, Agro-Geoinformatics 2019
+- Conference Secretariat, ISPRS TC VII Midterm Symposium 2014
+- Conference Secretariat, ISPRS Student Geospatial Conference 2013
