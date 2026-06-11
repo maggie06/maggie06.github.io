@@ -20,7 +20,7 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="hero">
   <img src="assets/images/profile.jpg" alt="Ayda" class="profile-photo">
-  <h1>Ayda Aktas</h1>
+  <h1>Aida Aktas</h1>
   <p><strong>Researcher - Lecturer at Istanbul Technical University</strong></p>
   <p><em>[Turning Earth Observation Data into Agricultural Intelligence]</em></p>
 </div>
